@@ -1,0 +1,73 @@
+    1  git init
+    2  ls -al
+    3  ls .git
+    4  touch file
+    5  git status
+    6  git add file
+    7  git status
+    8  git commit -m "file"
+    9  git status
+   10  git commit -m "file"
+   11  git config --global user.email "222sivalokeshyadav@gmail.com"
+   12  git config --global user.name "Golla Siva Lokesh Yadav"
+   13  git commit -m "file"
+   14  git log
+   15  git list
+   16  git config --list
+   17  w
+   18  ls -al
+   19  touch file1
+   20  git init
+   21  git commit -m "first commit"
+   22  git config --global user.email "222sivalokeshyadav@gmail.com"
+   23  git config --global user.name "sivalokeshyadav"
+   24  touch file
+   25  git init
+   26  git commit -m "first commit"
+   27  git add *
+   28  git commit -m "first commit"
+   29  git branch -M main
+   30  git remote add origin https://github.com/sivalokeshyadav/demo.git
+   31  git push -u origin main
+   32  cls
+   33  clear
+   34  code .
+   35  touch app.py
+   36  touch test.py
+   37  touch .gitignore
+   38  git init
+   39  git status
+   40  ls
+   41  ls -al
+   42  git add *
+   43  git status
+   44  git checkout -b siva
+   45  git commit -m "siva files"
+   46  git remote add origin https://github.com/sivalokeshyadav/siva1.git
+   47  git push -u origin siva
+   48  git checkout -b main
+   49  git checkout -b main1
+   50  git branch
+   51  git status
+   52  git checkout -b lokesh
+   53  git status 
+   54  git add *
+   55  git status
+   56  git commit -m "lokesh"
+   57  git push-u origin lokesh
+   58  git push -u origin lokesh
+   59  git pull origin lokesh
+   60  git add *
+   61  git status
+   62  git commit 
+   63  git log
+   64  git push -u origin lokesh
+   65  git checkout main
+   66  git add *
+   67  git commit -m "main"
+   68  git push -u origin main
+   69  git log
+   70  history
+   71  ll
+   72  ls
+   73  history > command.txt
